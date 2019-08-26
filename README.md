@@ -33,8 +33,10 @@
 
 ## References
 
-* (https://en.wikipedia.org/wiki/Twitter)
-* (https://wearesocial.com/uk/blog/2009/06/twitters-rise-decline-blogs
-* (https://www.theverge.com/2015/10/5/9457277/jack-dorsey-twitter-ceo-timeline)
-* (https://www.google.com/search?q=twitter&rlz=1C1GCEB_enUS863US863&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjY487dh6HkAhUQiqwKHQ_jDZwQ_AUIEigC&biw=1366&bih=576#imgrc=dlo3Dy_bAshtRM:)
+* [content Source](https://en.wikipedia.org/wiki/Twitter)
+* [image1](https://www.google.com/search?q=twitter&rlz=1C1GCEB_enUS863US863&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjY487dh6HkAhUQiqwKHQ_jDZwQ_AUIEigC&biw=1366&bih=576#imgrc=dlo3Dy_bAshtRM:)
+* [image2](https://www.theverge.com/2015/10/5/9457277/jack-dorsey-twitter-ceo-timeline)
+* [image3](https://wearesocial.com/uk/blog/2009/06/twitters-rise-decline-blogs)
+
+
 
