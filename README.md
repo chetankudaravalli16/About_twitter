@@ -24,5 +24,5 @@
 >![twitter](ttt.jpg)
 ## Growth
 >The company experienced rapid initial growth. It had 400,000 tweets posted per quarter in 2007. This grew to 100 million tweets posted per quarter in 2008. In February 2010, Twitter users were sending 50 million tweets per day. By March 2010, the company recorded over 70,000 registered applications. As of June 2010, about 65 million tweets were posted each day, equaling about 750 tweets sent each second, according to Twitter. As of March 2011, that was about 140 million tweets posted daily. As noted on Compete.com, Twitter moved up to the third-highest-ranking social networking site in January 2009 from its previous rank of twenty-second.
-
+>![rise](f.jpg)
 
